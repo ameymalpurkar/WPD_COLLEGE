@@ -1,0 +1,15 @@
+<!DOCKTYPE html >
+<html>
+<head>
+<title> my first webpage </title>
+<body> 
+<Br><h1 style="color:red">KK Wagh Polytechnic</h1></br>
+<h2>First Year AIML</h2>
+<h3>Batch B</h3>
+<h4>WPD</h4>
+<h5>Practical 2</h5>
+<h6> Maharastra State Board Of Technical Education, Mumbai </h6>
+</body>
+</head>
+</html>
+
