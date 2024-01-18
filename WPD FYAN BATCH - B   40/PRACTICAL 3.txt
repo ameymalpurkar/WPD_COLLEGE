@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WPD</title>
+</head>
+<body>
+<center>
+<b>
+<h1 style="color:red">k.k.wagh polytechnic,<h1>
+</center>
+<br>
+<p>
+<b>
+The purpose of AIML is to simplify the task of dialog modeling and 
+make it easier according to the stimulus-response approach.</b>
+<i>Artificial intelligence (AI) is the intelligence of machines or software,
+ as opposed to the intelligence of humans or animals.
+ It is a field of study in computer science that 
+develops and studies intelligent machines. Such machines may be called AI</i>
+<u>Artificial intelligence is the science of making machines that can think like humans.
+ It can do things that are considered "smart."
+ AI technology can process large amounts of data in ways, unlike humans.
+ The goal for AI is to be able to do things such as recognize patterns,
+ make decisions, and judge like humans.</u>
+<br>
+<pre>
+<span style="color:blue">
+Does AIML have coding?
+Yes, AI and machine learning involve a significant amount of coding. In order to develop and train AI models,
+ programmers typically use programming languages such as Python, R, or Java,
+ as well as specialized libraries and frameworks like TensorFlow, PyTorch, and scikit-learn
+What is AIML used for?
+AIML can be used to create chatbots, and computer programs that mimic human conversation.
+ AIML can also be used to create virtual assistants,
+ which are computer programs that can perform tasks such as scheduling appointments and sending emails.
+</span>
+</p>
+</pre>
+</body>
+</html>

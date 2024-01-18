@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<body>
+
+    <title style="color: blue;">welcome to WPD PRACTICAL NO 7</title>
+    <P>K.K Wagh polytechnic</P>
+    <P>I will display 	&#8704; </P>
+    <P>I will display   &#8706;</P>
+    <P>I will display 	&#8707;</P>
+    <P>I will display 	&#8709;</P>
+    <P>I will display 	&#8709;</P>
+    <P>I will display 	&#8709;</P>
+    <P>I will display 	&#914;</P>
+    <P>I will display 	&#915;</P>
+    <P>I will display   &#916;</P>
+    <P>I will display 	&#917;</P>
+    <P>I will display 	&#169;</P>
+    <P>I will display 	&#174;</P>
+    <P>I will display 	&#8592;</P>
+    <P>I will display   &#8593;</P>
+    <P>I will display	&#9830;</P>
+    <P>I will display 	&#128507;</P>
+    <P>I will display 	&#128508;</P>
+    <P>I will display 	&#128516;</P>
+</head>
+
+    
+</body>
+</html>
